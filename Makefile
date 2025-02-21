@@ -21,3 +21,6 @@ docker-compose-up-bd:
 
 eb-init-profile:
 	eb init --profile=userEB
+
+eb-deploy:
+	eb deploy Api-vinyl-env
