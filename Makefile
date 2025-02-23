@@ -29,4 +29,5 @@ git-add-remote-gitlab:
 	git remote add gitlab https://gitlab.com/xquenda14/vinylapi.git
 	git remote -v
 	git push gitlab main
-	
+	git push gitlab main
+
