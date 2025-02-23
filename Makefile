@@ -24,3 +24,6 @@ eb-init-profile:
 
 eb-deploy:
 	eb deploy Api-vinyl-env
+
+git-add-remote-gitlab:
+	git remote add gitlab https://gitlab.com/xquenda14/vinylapi.git

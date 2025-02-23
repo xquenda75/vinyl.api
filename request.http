@@ -31,11 +31,11 @@ delete http://localhost:3000/albums/38
 
 
 ### Login
-post http://localhost:3000/login
+post http://api-vinyl-env.eba-vafdfjwn.us-east-1.elasticbeanstalk.com:3000/login
 Content-Type: application/json
 
 {
-    "UserName": "admin",
+    "UserName": "jorge.lopez@dock.tech",
     "Password": "pass"
 }
 
